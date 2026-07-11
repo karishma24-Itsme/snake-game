@@ -1,5 +1,3 @@
-# snake-game
-A simple Snake Game developed in Python using Pygame with score tracking, collision detection, and smooth gameplay.
 ## Snake and Apple Game
 Building snake and apple game in `pygame and python`
 
